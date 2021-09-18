@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Editar la Reserva</string>
+    <string name="title_view">Prime Steak House (Costa del Este)</string>
+    <string name="act_reserva">Actualizar reserva</string>
+    <string name="canc_reserva">Cancelar la reserva</string>
+    <string name="desc1">View Icon</string>
+    <string name="title_view2">Costa del Este</string>
+    <string name="text_view3">Reserva a nombre de</string>
+    <string name="user">Jorge Andrés Rojas</string>
+    <string name="promo"><b>50% OFF</b> Miembro Foodie</string>
+    <string name="day">Miércoles 4</string>
+    <string name="hint1">66479404</string>
+    <string name="hint2">Voy a celebrar el cumpleaños de mi esposo y queremos una mesa cerca ...</string>
+    <string name="desc2">Icono de telefono</string>
+    <string name="desc3">Icono de mensaje</string>
+    <string name="calen_box">Miércoles 4</string>
+    <string name="hour_box">12:00 pm</string>
+    <string name="number_box">2 personas</string>
+    <string name="desc4">Lapiz 1</string>
+    <string name="desc5">Lapiz 2</string>
+    <string name="desc6">Lapiz 3</string>
+    <string name="salir">Salir</string>
+</resources>
